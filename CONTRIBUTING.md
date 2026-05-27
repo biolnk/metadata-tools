@@ -21,7 +21,7 @@ When you submit code changes, your submissions are understood to be under the sa
 
 ## Report bugs using Github's [issue tracker]
 
-We use GitHub issues to track public bugs. Report a bug by [opening a new issue](https://github.com/larpmadegoy/metadata-tool/issues/new).
+We use GitHub issues to track public bugs. Report a bug by [opening a new issue](https://github.com/biolnk/metadata-tools/issues/new).
 
 ## Write bug reports with detail, background, and sample code
 
